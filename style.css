@@ -1,0 +1,14 @@
+    .p1{
+        background-color:#f38770; /* เป็นการสร้าง class */
+        color:#503d8e; /*เปลี่ยนสีตัวอักษร */
+        padding:10px 15px 10px 15px; /*ระยะห่างระหว่างขอบกับเนื้อหาด้านใน"ทุกด้าน" โดยนับจาก บน ขวา ล่าง ซ้าย(วนตามเข็มนาฬิกา)*/
+        margin-bottom:0px; /*ระยะห่างของกรอบ*/
+        border:solid 2px #d63838; /*solid , dotted , dashed*/
+        border-radius: 10px;
+    } 
+    .content{
+        background-color:#f4dcd9;
+        padding:20px 15px 20px 15px;
+        margin-left:30px;
+        margin-right:30px;
+    }
